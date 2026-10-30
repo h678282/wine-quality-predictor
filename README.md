@@ -2,6 +2,7 @@
 # Wine Quality Predictor
 
 A small machine learning project that predicts wine quality based on physicochemical properties.
+Link to the website: https://wine-quality-predictor-tneawdwyfkyrivmrcf6xt9.streamlit.app/
 
 ## About
 
